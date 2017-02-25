@@ -1,2 +1,7 @@
-# htmlProgramming-
-My Html source code 
+# HTML Programming Repository
+--------------------------
+**Contents**
+- Html-projects 
+- Documentation 
+- Resources 
+- HackerRank
